@@ -3,6 +3,7 @@
 #### _A practice of looping with Java Script, 2020 ver 1.0_
 
 #### By _Ian Gregg & Frederick Ernest_
+[looping-](https://github.com/oldgregg89/Looping-)
 
 ## Description
 
